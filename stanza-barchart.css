@@ -1,3 +1,3 @@
-  .legend > table > tbody > tr > td + td > span {
-    font-size: 10px !important;
-  }
+body {
+  background-color: red;
+}
