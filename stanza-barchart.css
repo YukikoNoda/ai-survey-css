@@ -1,3 +1,7 @@
 .legend > table > tbody > tr > td + td > span {
   font-size: 10px;
 }
+
+.legend {
+  font-size: 10px !important;
+}
