@@ -1,4 +1,8 @@
 .legend table { font-size: inherit !important; }
+.legend, .legend * {
+  font-size: 10px !important;
+  line-height: 1.5; 
+}
 
-div {background-color: red;}
+div {background-color: green;}
 
