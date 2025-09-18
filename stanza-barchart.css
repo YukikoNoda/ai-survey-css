@@ -1,3 +1,4 @@
-.legend > table > tbody > tr > td + td > span {
+.legend {
   font-size: 8px;
+  color: red;
 }
